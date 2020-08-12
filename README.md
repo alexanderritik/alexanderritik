@@ -1,4 +1,4 @@
-## Hi, I'm [Ritik Srivastava!](https://github.com/alexanderritik/Portfolio) 👋
+## Hi, I'm [Ritik Srivastava!](https://alexanderritik.github.io/Portfolio/) 👋
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderritik&label=Views&color=blue&style=plastic" alt="alexanderritik" /> </p> -->
 
