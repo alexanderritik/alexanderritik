@@ -56,17 +56,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderritik&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderritik&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderritik&show_icons=true&theme=dark&line_height=27" alt="Ritik's github stats"/>
 </a>
-<!-- 
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=dark" />
-</a>
--->
 
 <div align="center">
 
