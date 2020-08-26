@@ -33,7 +33,7 @@
 - 🌱 I’m currently learning Competitve Proramming.
 - 👯 I love to collaborate on intresting Projects.
 - 💬 You can ask me stuffs related iOS.
-- 📫 How to reach me: [Instagram - @alexanderritik](https://www.instagram.com/alexanderritik/)
+- 📫 How to reach me: [LinkedIn - Ritik Srivastava](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch friend again and again .
 <!-- 
