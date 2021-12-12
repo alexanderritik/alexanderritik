@@ -32,9 +32,9 @@
 
 
 - 🔭 I'm currently a working on project [Rail-Ticket 2.0](#).
-- 🌱 I’m currently learning Competitve Proramming.
+- 🌱 I’m currently learning Blockchain.
 - 👯 I love to collaborate on intresting Projects.
-- 💬 You can ask me stuffs related iOS.
+- 💬 You can ask me stuffs related development.
 - 📫 How to reach me: [LinkedIn - Ritik Srivastava](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch friend again and again .
