@@ -35,9 +35,9 @@
 - 🌱 I’m currently learning Blockchain.
 - 👯 I love to collaborate on intresting Projects.
 - 💬 You can ask me stuffs related development.
-- 📫 How to reach me: [LinkedIn - Ritik Srivastava](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
+- 📫 How to reach me: [Twitter - Ritik Srivastava](https://twitter.com/Ritik__1999)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to watch friend again and again .
+- ⚡ Fun fact: I love to watch FRIENDS again and again .
 <!-- 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
