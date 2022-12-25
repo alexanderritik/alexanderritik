@@ -32,7 +32,7 @@
 
 
 - 🔭 I'm currently a working on project [Rail-Ticket 2.0](#).
-- 🌱 I’m currently learning everything I see intrest IN.
+- 🌱 I’m currently learning everything Open Source Development.
 - 👯 I love to collaborate on intresting Projects.
 - 💬 You can ask me stuffs related development.
 - 📫 How to reach me: [Twitter - Ritik Srivastava](https://twitter.com/Ritik__1999)
