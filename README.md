@@ -32,8 +32,9 @@
 
 
 - 🔭 I'm currently a working on project [Coding Arena](#).
-- 🌱 I’m currently learning everything Open Source Development.
+- 🌱 I’m currently learning Backend Development.
 - 👯 I love to collaborate on intresting Projects.
+- 🥹 I am currently tring to contribute to Open source Development (HELP REQUIRED TO GET START).
 - 💬 You can ask me stuffs related development.
 - 📫 How to reach me: [Twitter - Ritik Srivastava](https://twitter.com/Ritik__1999)
 - 😄 Pronouns: He/His
