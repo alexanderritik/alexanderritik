@@ -31,7 +31,7 @@
 
 
 
-- 🔭 I'm currently a working on project [Coding Arena](#).
+- 🔭 I'm currently a working on project [Coding Arena](https://github.com/alexanderritik/Coding-Arena).
 - 🌱 I’m currently learning Backend Development.
 - 👯 I love to collaborate on intresting Projects.
 - 🥹 I am currently tring to contribute to Open source Development (HELP REQUIRED).
