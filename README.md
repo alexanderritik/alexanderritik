@@ -2,11 +2,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderritik&label=Views&color=blue&style=plastic" alt="alexanderritik" /> </p> -->
 
-<a href="https://twitter.com/alexanderitik">
+<a href="https://twitter.com/Ritik__1999">
   <img align="left" alt="Ritik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ritik-srivastava-9b6964182/">
-  <img align="left" alt="Ritik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/alexanderritik">
   <img align="left" alt="Ritik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -14,12 +11,12 @@
 <!-- <a href="https://t.me/imthepk">
   <img align="left" alt="Ritik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> -->
-<a href="https://www.instagram.com/alexanderritik/">
+<!-- <a href="https://www.instagram.com/alexanderritik/">
   <img align="left" alt="Ritik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100006362525816">
+</a> -->
+<!-- <a href="https://www.facebook.com/profile.php?id=100006362525816">
   <img align="left" alt="Ritik's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 <a href="https://www.youtube.com/channel/UC1HnmhGWgaIGJG2zqB_HUdA">
   <img align="left" alt="Ritik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
