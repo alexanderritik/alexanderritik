@@ -52,12 +52,12 @@
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
 
 
-<a href="https://github.com/alexanderritik">
+<!-- <a href="https://github.com/alexanderritik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderritik&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/alexanderritik">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderritik&show_icons=true&theme=dark&line_height=27" alt="Ritik's github stats"/>
-</a>
+</a> -->
 
 
 <div align="center">
