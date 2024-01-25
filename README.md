@@ -20,9 +20,6 @@
 <a href="https://www.youtube.com/channel/UC1HnmhGWgaIGJG2zqB_HUdA">
   <img align="left" alt="Ritik's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://dev.to/alexanderritik">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ritik Srivastava's DEV Profile" height="30" width="30">
-</a>
 <br/>
 <br/>
 
