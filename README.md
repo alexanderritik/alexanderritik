@@ -27,7 +27,7 @@
 - 👯 I love to collaborate on intresting Projects.
 - 🥹 I am currently tring to contribute to Open source Development (HELP REQUIRED).
 - 💬 You can ask me stuffs related development.
-- 📫 How to reach me: [Twitter - Ritik Srivastava](https://twitter.com/Ritik__1999)
+- 📫 How to reach me: [LinkedIn - Ritik Srivastava](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch FRIENDS again and again .
 <!-- 
