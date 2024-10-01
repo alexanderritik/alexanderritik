@@ -22,9 +22,8 @@
 
 
 
-- 🔭 I'm currently a working on project [Coding Arena](https://github.com/alexanderritik/Coding-Arena).
-- 🌱 I’m currently learning Backend Development.
-- 👯 I love to collaborate on intresting Projects.
+- 🔭 I'm currently a working on project Athveena.
+- 🌱 I’m currently learning Software Engineering.
 - 🥹 I am currently tring to contribute to Open source Development (HELP REQUIRED).
 - 💬 You can ask me stuffs related development.
 - 📫 How to reach me: [LinkedIn - Ritik Srivastava](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
