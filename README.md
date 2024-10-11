@@ -23,7 +23,7 @@
       <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api/wakatime?username=ritikSrivastava&layout=compact&theme=transparent"/>
    </a>
 <a href="https://github.com/alexanderritik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderritik&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderritik&theme=transparent&layout=compact" />
 </a>
   </div>
 </div>
