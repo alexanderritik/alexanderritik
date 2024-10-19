@@ -12,7 +12,7 @@
 
   * #### 😎 - on the road to becoming a better Software Engineer 
 
-  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, AWS, Kubernetes, Docker, CI/CD, and Python
+  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self hosting, AWS, Kubernetes, Docker, CI/CD, and Python
   
   * #### Contact me on LinkedIn : [Ritik Srivastva](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
     
