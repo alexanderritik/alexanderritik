@@ -10,11 +10,15 @@
 
   * #### 🌠 - 1999
 
-  * #### 😎 - on the road to becoming a better Software Engineer 
-
-  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self hosting, AWS, Kubernetes, Docker, CI/CD, and Python
+  * #### 😎 - on the road to becoming a better Software Engineer
   
-  * #### Contact me on LinkedIn : [Ritik Srivastva](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
+  * #### 🥷🏻 - I feel programming is just a tool, give me the problem statement and I will make it true.
+
+  * #### 🚚 - I love to self-host tools on bare metal(Power).
+
+  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self-hosting, AWS, Kubernetes, Docker, CI/CD, and Python
+  
+  * #### 𝌕 Ping me on LinkedIn : [Ritik Srivastva](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
     
 
 <div style="margin-top: 3rem; display: flex; align-items: flex-start;">
