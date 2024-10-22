@@ -1,6 +1,6 @@
 # __Hello there!__<img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50">
 
-   ## 👨 Ritik Srivastva [![wakatime](https://wakatime.com/badge/user/b98deb3f-ef4e-4263-95e8-d9cea9aff6b4.svg)](https://wakatime.com/@b98deb3f-ef4e-4263-95e8-d9cea9aff6b4)
+   ## 👨 Ritik Srivastava [![wakatime](https://wakatime.com/badge/user/b98deb3f-ef4e-4263-95e8-d9cea9aff6b4.svg)](https://wakatime.com/@b98deb3f-ef4e-4263-95e8-d9cea9aff6b4)
   
   Let's get to know each other more, open your terminal and run:
   
