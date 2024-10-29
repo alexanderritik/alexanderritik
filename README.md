@@ -14,7 +14,7 @@
   
   * #### 🥷🏻 - I feel programming is just a tool, give me the problem statement and I will make it true.
 
-  * #### 🚚 - I love to self-host tools on bare metal(Power).
+  * #### 🚚 - I love to self-host tools on bare metal ditching any cloud or service provider for Saas. (My Super Power 😁).
 
   * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self-hosting, AWS, Kubernetes, Docker, CI/CD, and Python
   
