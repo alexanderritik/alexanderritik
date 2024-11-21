@@ -7,8 +7,8 @@
   ```bash
          npx ritik_srivastava
   ```
-
-  * website 🕶️ - [Protfolio](https://www.ritik-space.com/)
+   
+   [Protfolio](https://www.ritik-space.com/) | [LinkedIN](https://www.linkedin.com/in/ritik-srivastava-9b6964182/) | [Twitter](https://x.com/Ritik__1999)
 
   * #### 🌠 - 1999
 
@@ -18,10 +18,7 @@
 
   * #### 🚚 - I love to self-host tools on bare metal ditching any cloud or service provider for Saas. (My Super Power 😁).
 
-  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self-hosting, AWS, Kubernetes, Docker, CI/CD, and Python
-  
-  * #### 𝌕 Ping me on LinkedIn : [Ritik Srivastva](https://www.linkedin.com/in/ritik-srivastava-9b6964182/)
-    
+  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self-hosting, AWS, Kubernetes, Docker, CI/CD, and Python  
 
 <div style="margin-top: 3rem; display: flex; align-items: flex-start;">
    <div>
