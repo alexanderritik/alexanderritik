@@ -37,7 +37,7 @@
 
 <div style="justify-content: space-between; display: grid; grid-auto-flow: column;">
    <a href="https://wakatime.com/badge/user/b98deb3f-ef4e-4263-95e8-d9cea9aff6b4"><img src="https://wakatime.com/badge/user/b98deb3f-ef4e-4263-95e8-d9cea9aff6b4.svg" alt="Total time coded since Sep 10 2019" /></a>
-    <div style={{ display: 'flex', alignItems: 'center' }}>
+    <div style={{ display: 'flex', align-items: 'center' }}>
       <code><img src="https://img.icons8.com/color/50/000000/javascript--v2.png" alt="JavaScript" style={{ paddingTop: '2rem', marginRight: '1rem', width: '48px', height: '48px' }} /></code>
       <code><img src="https://img.icons8.com/color/50/000000/react-native.png" alt="React" style={{ paddingTop: '2rem', marginRight: '1rem', width: '48px', height: '48px' }} /></code>
       <code><img src="https://img.icons8.com/color/50/000000/amazon-web-services.png" alt="AWS" style={{ paddingTop: '2rem', marginRight: '1rem', width: '48px', height: '48px' }} /></code>
