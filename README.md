@@ -12,7 +12,7 @@
 
   * #### 😎 - on the road to becoming a better Software Engineer
   
-  * #### 🥷🏻 - I feel programming is just a tool, give me the problem statement and I will make it solve.
+  * #### 🥷🏻 - I feel programming is just a tool, give me the problem statement and I will solve it.
 
   * #### 🚚 - I love to self-host tools on bare metal ditching any cloud or service provider for Saas. (My Super Power 😁).
 
