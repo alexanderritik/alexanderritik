@@ -16,11 +16,11 @@
 
   * #### 🚚 - I love to self-host tools on bare metal ditching any cloud or service provider for Saas. (My Super Power 😁).
 
-  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Self-hosting, AWS, Kubernetes, Docker, CI/CD, and Python  
+  * #### 💻 - JavaScript, Nodejs, Reactjs, TypeScript, React Native, Rust, Self-hosting, AWS, Kubernetes, Docker, CI/CD, and Python  
 
 ### Connect with Me 🌐
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.ritik-space.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-srivastava-9b6964182/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ritik__1999) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.ritik-space.com/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ritik__1999) 
 
 
 <div style="margin-top: 3rem; display: flex; align-items: flex-start;">
