@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 [![wakatime](https://wakatime.com/badge/user/b98deb3f-ef4e-4263-95e8-d9cea9aff6b4.svg)](https://wakatime.com/@b98deb3f-ef4e-4263-95e8-d9cea9aff6b4)
 
-> Programming is just a tool — give me the problem statement and I'll solve it. I'd rather run it on bare metal than pay someone else's cloud tax.
+> Programming is just a tool — give me the problem statement and I'll solve it.
 
 ---
 
