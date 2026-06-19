@@ -18,7 +18,7 @@
 ## Open Source Projects
 
 - 🧪 **[BYOT — Bring Your Own Tests](https://github.com/alexanderritik/BYOT)** `Go · Docker · PostgreSQL · MinIO`  
-  Production monitoring that runs your existing Playwright/k6/custom test binaries on a schedule inside ephemeral containers. Catches what CI never sees — third-party outages, cert expiry, API drift. Self-hostable, `docker compose up` and done.
+  Production monitoring that runs your existing Playwright/k6/custom test binaries on a schedule inside ephemeral containers. Catches what CI never sees — third-party outages, cert expiry, API drift. Self-hostable, `docker compose up` and done. [Live Demo ->](https://alexanderritik.github.io/BYOT/)
 
 - 🕸️ **[ArchHelix](https://github.com/alexanderritik/ArchHelix)** `Go · TypeScript · React`  
   Drop any codebase in, get an interactive dependency graph out. Local Go backend + React UI. Originally cloud-hosted; rebuilt engine locally after hitting AWS costs. Ships as a single binary via `install.sh`.
