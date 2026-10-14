@@ -1,0 +1,31 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <rect width="900" height="230" rx="12" fill="#151515" stroke="#383838"/>
+
+  <circle cx="25" cy="24" r="5" fill="#FF5F57"/>
+  <circle cx="43" cy="24" r="5" fill="#FEBC2E"/>
+  <circle cx="61" cy="24" r="5" fill="#28C840"/>
+
+  <text x="870" y="28" fill="#888888" text-anchor="end"
+        font-family="monospace" font-size="12">~/personal</text>
+
+  <text x="35" y="67" fill="#8FD694"
+        font-family="monospace" font-size="15">$ cat interests.txt</text>
+
+  <text x="35" y="112" fill="#F5F1EA"
+        font-family="monospace" font-size="29" font-weight="bold">Beyond the code.</text>
+
+  <text x="35" y="143" fill="#AAAAAA"
+        font-family="monospace" font-size="14">Thoughts, experiments, and ideas.</text>
+
+  <path d="M35 165 H865" stroke="#383838"/>
+
+  <text x="35" y="198" fill="#8FD694"
+        font-family="monospace" font-size="15">./read-my-writing</text>
+
+  <text x="225" y="198" fill="#8FD694"
+        font-family="monospace" font-size="18">↗</text>
+
+  <text x="865" y="198" fill="#666666" text-anchor="end"
+        font-family="monospace" font-size="12">OPEN WEBSITE</text>
+</svg>
